@@ -9,7 +9,7 @@ RCSP is an innovative radiomics analysis tool developed using the R programming 
 
 ***
  
-To install scAnno,we recommed using devtools:  
+To install RCSP,we recommed using devtools:  
 
     #install.packages("devtools")  
     devtools::install_github("YuGu-CN/RCSP")  
